@@ -68,7 +68,9 @@
             font-family: Arial, sans-serif;
         }
 
-        #initBtn:hover { background-color: #f4b6c2; }
+        #initBtn:hover { 
+            background-color: #ec8499; 
+        }
 
         .system-info {
             margin-top: 20px;
